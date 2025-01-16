@@ -1,0 +1,6 @@
+[submodule "Q1_25_Prereqs_Rust"]
+	path = Q1_25_Prereqs_Rust
+	url = https://github.com/Suryansh777777/turbin3-rust-prereq
+[submodule "Q1_25_Prereqs_Typescript"]
+	path = Q1_25_Prereqs_Typescript
+	url = https://github.com/Suryansh777777/turbine-cohort
